@@ -1,4 +1,4 @@
-# EmoTracker pack for Celeste 64 Archipelago Randomizer
+# PopTracker pack for Celeste 64 Archipelago Randomizer
 
 A PopTracker pack with a map for [the Celeste 64 Archipelago Randomizer](https://github.com/ArchipelagoMW/Archipelago)
 
