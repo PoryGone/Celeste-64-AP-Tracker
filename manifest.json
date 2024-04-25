@@ -1,0 +1,16 @@
+﻿{
+    "name": "Celeste 64 - Archipelago Tracker",
+    "game_name": "Celeste 64",
+    "platform": "PC",
+    "package_version": "1.2.0",
+    "package_uid": "celeste_64_randomizer_porygone",
+    "author": "PoryGone",
+    "variants": {
+        "itemrando": {
+            "display_name": "Archipelago Randomizer",
+            "flags": [
+                "ap"
+            ]
+        }
+    }
+}

@@ -1,0 +1,816 @@
+[
+	{
+		"name": "First Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|0" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 317,
+				"y": 740
+			}
+		]
+	},
+
+	{
+		"name": "Floating Blocks Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|1" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 350,
+				"y": 482
+			}
+		]
+	},
+
+	{
+		"name": "South-East Tower Top Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|2" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 412,
+				"y": 612
+			}
+		]
+	},
+
+	{
+		"name": "Theo Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|3" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 223,
+				"y": 611
+			}
+		]
+	},
+
+	{
+		"name": "Fall Through Spike Floor Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|4" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 140,
+				"y": 900
+			}
+		]
+	},
+
+	{
+		"name": "Troll Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|5" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 285,
+				"y": 390
+			}
+		]
+	},
+
+	{
+		"name": "Falling Blocks Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|6" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 300,
+				"y": 261
+			}
+		]
+	},
+
+	{
+		"name": "Traffic Block Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|7" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 140,
+				"y": 135
+			}
+		]
+	},
+
+	{
+		"name": "South-West Dash Refills Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|8" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 28,
+				"y": 510
+			}
+		]
+	},
+
+	{
+		"name": "South-East Tower Side Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|9" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 440,
+				"y": 630
+			}
+		]
+	},
+
+	{
+		"name": "Girders Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|10" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 405,
+				"y": 268
+			}
+		]
+	},
+
+	{
+		"name": "North-East Tower Bottom Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|11" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 565,
+				"y": 360
+			}
+		]
+	},
+
+	{
+		"name": "Breakable Blocks Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|12" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 266,
+				"y": 191
+			}
+		]
+	},
+
+	{
+		"name": "Feather Maze Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|13" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 751,
+				"y": 231
+			}
+		]
+	},
+
+	{
+		"name": "Feather Chain Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|14" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 1101,
+				"y": 200
+			}
+		]
+	},
+
+	{
+		"name": "Feather Hidden Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|15" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 775,
+				"y": 89
+			}
+		]
+	},
+
+	{
+		"name": "Double Dash Puzzle Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|16" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 415,
+				"y": 580
+			}
+		]
+	},
+
+	{
+		"name": "Double Dash Spike Climb Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|17" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 750,
+				"y": 565
+			}
+		]
+	},
+
+	{
+		"name": "Double Dash Spring Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|18" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 599,
+				"y": 735
+			}
+		]
+	},
+
+	{
+		"name": "North-East Tower Breakable Bottom Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|19" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 538,
+				"y": 320
+			}
+		]
+	},
+
+	{
+		"name": "Theo Tower Lower Cassette Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|20" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 253,
+				"y": 533
+			}
+		]
+	},
+
+	{
+		"name": "Theo Tower Upper Cassette Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|21" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 236,
+				"y": 640
+			}
+		]
+	},
+
+	{
+		"name": "South End of Bridge Cassette Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|22" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 290,
+				"y": 410
+			}
+		]
+	},
+
+	{
+		"name": "You Are Ready Cassette Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|23" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 430,
+				"y": 380
+			}
+		]
+	},
+
+	{
+		"name": "Cassette Hidden in the House Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|24" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 630,
+				"y": 500
+			}
+		]
+	},
+
+	{
+		"name": "North End of Bridge Cassette Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|25" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 295,
+				"y": 100
+			}
+		]
+	},
+
+	{
+		"name": "Distant Feather Cassette Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|26" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 550,
+				"y": 30
+			}
+		]
+	},
+
+	{
+		"name": "Feather Arches Cassette Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|27" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 943,
+				"y": 176
+			}
+		]
+	},
+
+	{
+		"name": "North-East Tower Cassette Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|28" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 534,
+				"y": 394
+			}
+		]
+	},
+
+	{
+		"name": "Badeline Cassette Strawberry",
+		"sections": [
+			{
+				"access_rules": [ "$Logic|29" ],
+				"chest_unopened_img": "images/items/strawberry_grey.png",
+				"chest_opened_img": "images/items/strawberry.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 382,
+				"y": 434
+			}
+		]
+	},
+
+	{
+		"name": "Granny",
+		"visibility_rules": [ "friendsanity" ],
+		"sections": [
+			{
+				"name": "Conversation 1",
+				"access_rules": [ "$Logic|100" ],
+				"chest_unopened_img": "images/items/GrannyGrey.png",
+				"chest_opened_img": "images/items/Granny.png",
+				"item_count": 1
+			},
+			{
+				"name": "Conversation 2",
+				"access_rules": [ "$Logic|101" ],
+				"chest_unopened_img": "images/items/GrannyGrey.png",
+				"chest_opened_img": "images/items/Granny.png",
+				"item_count": 1
+			},
+			{
+				"name": "Conversation 3",
+				"access_rules": [ "$Logic|102" ],
+				"chest_unopened_img": "images/items/GrannyGrey.png",
+				"chest_opened_img": "images/items/Granny.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 316,
+				"y": 614
+			}
+		]
+	},
+
+	{
+		"name": "Theo",
+		"visibility_rules": [ "friendsanity" ],
+		"sections": [
+			{
+				"name": "Conversation 1",
+				"access_rules": [ "$Logic|103" ],
+				"chest_unopened_img": "images/items/TheoGrey.png",
+				"chest_opened_img": "images/items/Theo.png",
+				"item_count": 1
+			},
+			{
+				"name": "Conversation 2",
+				"access_rules": [ "$Logic|104" ],
+				"chest_unopened_img": "images/items/TheoGrey.png",
+				"chest_opened_img": "images/items/Theo.png",
+				"item_count": 1
+			},
+			{
+				"name": "Conversation 3",
+				"access_rules": [ "$Logic|105" ],
+				"chest_unopened_img": "images/items/TheoGrey.png",
+				"chest_opened_img": "images/items/Theo.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 238,
+				"y": 596
+			}
+		]
+	},
+
+	{
+		"name": "Badeline",
+		"visibility_rules": [ "friendsanity" ],
+		"sections": [
+			{
+				"name": "Conversation 1",
+				"access_rules": [ "$Logic|106" ],
+				"chest_unopened_img": "images/items/BaddyGrey.png",
+				"chest_opened_img": "images/items/Baddy.png",
+				"item_count": 1
+			},
+			{
+				"name": "Conversation 2",
+				"access_rules": [ "$Logic|107" ],
+				"chest_unopened_img": "images/items/BaddyGrey.png",
+				"chest_opened_img": "images/items/Baddy.png",
+				"item_count": 1
+			},
+			{
+				"name": "Conversation 3",
+				"access_rules": [ "$Logic|108" ],
+				"chest_unopened_img": "images/items/BaddyGrey.png",
+				"chest_opened_img": "images/items/Baddy.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 357,
+				"y": 446
+			}
+		]
+	},
+
+	{
+		"name": "Camera Sign",
+		"visibility_rules": [ "signsanity" ],
+		"sections": [
+			{
+				"access_rules": [ "$Logic|200" ],
+				"chest_unopened_img": "images/items/SignGrey.png",
+				"chest_opened_img": "images/items/Sign.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 317,
+				"y": 583
+			}
+		]
+	},
+
+	{
+		"name": "Skid Jump Sign",
+		"visibility_rules": [ "signsanity" ],
+		"sections": [
+			{
+				"access_rules": [ "$Logic|201" ],
+				"chest_unopened_img": "images/items/SignGrey.png",
+				"chest_opened_img": "images/items/Sign.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 180,
+				"y": 603
+			}
+		]
+	},
+
+	{
+		"name": "Dash Jump Sign",
+		"visibility_rules": [ "signsanity" ],
+		"sections": [
+			{
+				"access_rules": [ "$Logic|202" ],
+				"chest_unopened_img": "images/items/SignGrey.png",
+				"chest_opened_img": "images/items/Sign.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 295,
+				"y": 210
+			}
+		]
+	},
+
+	{
+		"name": "Lonely Sign",
+		"visibility_rules": [ "signsanity" ],
+		"sections": [
+			{
+				"access_rules": [ "$Logic|203" ],
+				"chest_unopened_img": "images/items/SignGrey.png",
+				"chest_opened_img": "images/items/Sign.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 630,
+				"y": 520
+			}
+		]
+	},
+
+	{
+		"name": "Credits Sign",
+		"visibility_rules": [ "signsanity" ],
+		"sections": [
+			{
+				"access_rules": [ "$Logic|204" ],
+				"chest_unopened_img": "images/items/SignGrey.png",
+				"chest_opened_img": "images/items/Sign.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 385,
+				"y": 416
+			}
+		]
+	},
+
+	{
+		"name": "Intro Car",
+		"visibility_rules": [ "carsanity" ],
+		"sections": [
+			{
+				"access_rules": [ "$Logic|300" ],
+				"chest_unopened_img": "images/items/CarGrey.png",
+				"chest_opened_img": "images/items/Car.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 305,
+				"y": 900
+			}
+		]
+	},
+
+	{
+		"name": "Secret Car",
+		"visibility_rules": [ "carsanity" ],
+		"sections": [
+			{
+				"access_rules": [ "$Logic|301" ],
+				"chest_unopened_img": "images/items/CarGrey.png",
+				"chest_opened_img": "images/items/Car.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 253,
+				"y": 611
+			}
+		]
+	}
+]

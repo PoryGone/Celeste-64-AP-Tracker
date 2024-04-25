@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Strawberries",
+        "type": "consumable",
+        "img": "images/items/strawberry.png",
+        "codes": "strawberries",
+        "max_quantity": 46,
+        "overlay_font_size": 14
+    },
+    {
+        "name": "Dash Refills",
+        "type": "toggle",
+        "img": "images/items/Dash_Filled.png",
+        "codes": "dash_refills"
+    },
+    {
+        "name": "Double Dash Refills",
+        "type": "toggle",
+        "img": "images/items/DoubleDash_Filled.png",
+        "codes": "double_dash_refills"
+    },
+    {
+        "name": "Feathers",
+        "type": "toggle",
+        "img": "images/items/Feather_Filled.png",
+        "codes": "feathers"
+    },
+    {
+        "name": "Coins",
+        "type": "toggle",
+        "img": "images/items/Coins_Filled.png",
+        "codes": "coins"
+    },
+    {
+        "name": "Cassettes",
+        "type": "toggle",
+        "img": "images/items/Cassettes_Filled.png",
+        "codes": "cassettes"
+    },
+    {
+        "name": "Traffic Blocks",
+        "type": "toggle",
+        "img": "images/items/Traffic_Filled.png",
+        "codes": "traffic_blocks"
+    },
+    {
+        "name": "Springs",
+        "type": "toggle",
+        "img": "images/items/Springs_Filled.png",
+        "codes": "springs"
+    },
+    {
+        "name": "Breakable Blocks",
+        "type": "toggle",
+        "img": "images/items/Breakables_Filled.png",
+        "codes": "breakable_blocks"
+    },
+
+    {
+        "name": "Ground Dash",
+        "type": "toggle",
+        "img": "images/items/GroundDash.png",
+        "codes": "ground_dash"
+    },
+    {
+        "name": "Air Dash",
+        "type": "toggle",
+        "img": "images/items/AirDash.png",
+        "codes": "air_dash"
+    },
+    {
+        "name": "Skid Jump",
+        "type": "toggle",
+        "img": "images/items/SkidJump.png",
+        "codes": "skid_jump"
+    },
+    {
+        "name": "Climb",
+        "type": "toggle",
+        "img": "images/items/Climb.png",
+        "codes": "climb"
+    }
+]

@@ -1,0 +1,8 @@
+﻿[
+    {
+        "name": "Forsaken City",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/forsaken_city.png"
+    },
+]
