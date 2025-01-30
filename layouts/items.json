@@ -15,8 +15,9 @@
                         "feathers",
                         "cassettes",
                         "springs",
-                        "ground_dash",
-                        "skid_jump"
+                        "checkpoint_1",
+                        "checkpoint_2",
+                        "checkpoint_3",
                     ],
                     [
                         "",
@@ -24,8 +25,20 @@
                         "coins",
                         "traffic_blocks",
                         "breakable_blocks",
+                        "checkpoint_4",
+                        "checkpoint_5",
+                        "checkpoint_6",
+                    ],
+                    [
+                        "",
+                        "ground_dash",
                         "air_dash",
-                        "climb"
+                        "skid_jump",
+                        "climb",
+                        "checkpoint_7",
+                        "checkpoint_8",
+                        "checkpoint_9",
+                        "checkpoint_10"
                     ]
                 ]
             }
@@ -44,13 +57,15 @@
                 "rows": [
                     [
                         "strawberries_required",
-                        "logic_difficulty",
-                        "move_shuffle",
+                        "friendsanity"
                     ],
                     [
-                        "friendsanity",
-                        "signsanity",
-                        "carsanity",
+                        "logic_difficulty",
+                        "signsanity"
+                    ],
+                    [
+                        "",
+                        "carsanity"
                     ]
                 ]
             }

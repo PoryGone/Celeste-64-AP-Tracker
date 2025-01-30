@@ -3,7 +3,7 @@
 		"name": "First Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|0" ],
+				"access_rules": [ "@Intro Island Access, $Logic|0" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -22,7 +22,7 @@
 		"name": "Floating Blocks Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|1" ],
+				"access_rules": [ "@Granny Island Access, $Logic|1" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -41,7 +41,7 @@
 		"name": "South-East Tower Top Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|2" ],
+				"access_rules": [ "@Granny Island Access, $Logic|2" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -60,7 +60,7 @@
 		"name": "Theo Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|3" ],
+				"access_rules": [ "@Granny Island Access, $Logic|3" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -79,7 +79,7 @@
 		"name": "Fall Through Spike Floor Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|4" ],
+				"access_rules": [ "@Granny Island Access, $Logic|4" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -98,7 +98,7 @@
 		"name": "Troll Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|5" ],
+				"access_rules": [ "@Freeway Island Access, $Logic|5" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -117,7 +117,7 @@
 		"name": "Falling Blocks Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|6" ],
+				"access_rules": [ "@Freeway Island Access, $Logic|6" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -136,7 +136,7 @@
 		"name": "Traffic Block Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|7" ],
+				"access_rules": [ "@North-West Girders Island Access, $Logic|7" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -155,7 +155,7 @@
 		"name": "South-West Dash Refills Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|8" ],
+				"access_rules": [ "@Granny Island Access, $Logic|8" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -174,7 +174,7 @@
 		"name": "South-East Tower Side Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|9" ],
+				"access_rules": [ "@Granny Island Access, $Logic|9" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -193,7 +193,7 @@
 		"name": "Girders Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|10" ],
+				"access_rules": [ "@Freeway Island Access, $Logic|10" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -209,10 +209,10 @@
 	},
 
 	{
-		"name": "North-East Tower Bottom Strawberry",
+		"name": "Badeline Tower Bottom Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|11" ],
+				"access_rules": [ "@Badeline Tower Lower Access, $Logic|11" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -231,7 +231,7 @@
 		"name": "Breakable Blocks Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|12" ],
+				"access_rules": [ "@Freeway Island Access, $Logic|12" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -250,7 +250,7 @@
 		"name": "Feather Maze Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|13" ],
+				"access_rules": [ "@North-East Feathers Island Access, $Logic|13" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -269,7 +269,7 @@
 		"name": "Feather Chain Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|14" ],
+				"access_rules": [ "@North-East Feathers Island Access, $Logic|14" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -288,7 +288,7 @@
 		"name": "Feather Hidden Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|15" ],
+				"access_rules": [ "@North-East Feathers Island Access, $Logic|15" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -307,7 +307,7 @@
 		"name": "Double Dash Puzzle Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|16" ],
+				"access_rules": [ "@South-East House Island Access, $Logic|16" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -326,7 +326,7 @@
 		"name": "Double Dash Spike Climb Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|17" ],
+				"access_rules": [ "@South-East House Island Access, $Logic|17" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -345,7 +345,7 @@
 		"name": "Double Dash Spring Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|18" ],
+				"access_rules": [ "@South-East House Island Access, $Logic|18" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -361,10 +361,10 @@
 	},
 
 	{
-		"name": "North-East Tower Breakable Bottom Strawberry",
+		"name": "Badeline Tower Breakable Bottom Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|19" ],
+				"access_rules": [ "@Badeline Tower Lower Access, $Logic|19" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -374,7 +374,7 @@
 			{
 				"map": "Forsaken City",
 				"x": 538,
-				"y": 320
+				"y": 312
 			}
 		]
 	},
@@ -383,7 +383,7 @@
 		"name": "Theo Tower Lower Cassette Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|20" ],
+				"access_rules": [ "@Granny Island Access, $Logic|20" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -402,7 +402,7 @@
 		"name": "Theo Tower Upper Cassette Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|21" ],
+				"access_rules": [ "@Granny Island Access, $Logic|21" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -421,7 +421,7 @@
 		"name": "South End of Bridge Cassette Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|22" ],
+				"access_rules": [ "@Freeway Island Access, $Logic|22" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -440,7 +440,7 @@
 		"name": "You Are Ready Cassette Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|23" ],
+				"access_rules": [ "@Granny Island Access, $Logic|23" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -459,7 +459,7 @@
 		"name": "Cassette Hidden in the House Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|24" ],
+				"access_rules": [ "@South-East House Island Access, $Logic|24" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -478,7 +478,7 @@
 		"name": "North End of Bridge Cassette Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|25" ],
+				"access_rules": [ "@Freeway Island Access, $Logic|25" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -497,7 +497,7 @@
 		"name": "Distant Feather Cassette Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|26" ],
+				"access_rules": [ "@North-East Feathers Island Access, $Logic|26" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -516,7 +516,7 @@
 		"name": "Feather Arches Cassette Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|27" ],
+				"access_rules": [ "@North-East Feathers Island Access, $Logic|27" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -532,10 +532,10 @@
 	},
 
 	{
-		"name": "North-East Tower Cassette Strawberry",
+		"name": "Badeline Tower Cassette Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|28" ],
+				"access_rules": [ "@Badeline Tower Upper Access, $Logic|28" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -554,7 +554,7 @@
 		"name": "Badeline Cassette Strawberry",
 		"sections": [
 			{
-				"access_rules": [ "$Logic|29" ],
+				"access_rules": [ "@Badeline Island Access, $Logic|29" ],
 				"chest_unopened_img": "images/items/strawberry_grey.png",
 				"chest_opened_img": "images/items/strawberry.png",
 				"item_count": 1
@@ -575,21 +575,21 @@
 		"sections": [
 			{
 				"name": "Conversation 1",
-				"access_rules": [ "$Logic|100" ],
+				"access_rules": [ "@Granny Island Access, $Logic|100" ],
 				"chest_unopened_img": "images/items/GrannyGrey.png",
 				"chest_opened_img": "images/items/Granny.png",
 				"item_count": 1
 			},
 			{
 				"name": "Conversation 2",
-				"access_rules": [ "$Logic|101" ],
+				"access_rules": [ "@Granny Island Access, $Logic|101" ],
 				"chest_unopened_img": "images/items/GrannyGrey.png",
 				"chest_opened_img": "images/items/Granny.png",
 				"item_count": 1
 			},
 			{
 				"name": "Conversation 3",
-				"access_rules": [ "$Logic|102" ],
+				"access_rules": [ "@Granny Island Access, $Logic|102" ],
 				"chest_unopened_img": "images/items/GrannyGrey.png",
 				"chest_opened_img": "images/items/Granny.png",
 				"item_count": 1
@@ -610,21 +610,21 @@
 		"sections": [
 			{
 				"name": "Conversation 1",
-				"access_rules": [ "$Logic|103" ],
+				"access_rules": [ "@Granny Island Access, $Logic|103" ],
 				"chest_unopened_img": "images/items/TheoGrey.png",
 				"chest_opened_img": "images/items/Theo.png",
 				"item_count": 1
 			},
 			{
 				"name": "Conversation 2",
-				"access_rules": [ "$Logic|104" ],
+				"access_rules": [ "@Granny Island Access, $Logic|104" ],
 				"chest_unopened_img": "images/items/TheoGrey.png",
 				"chest_opened_img": "images/items/Theo.png",
 				"item_count": 1
 			},
 			{
 				"name": "Conversation 3",
-				"access_rules": [ "$Logic|105" ],
+				"access_rules": [ "@Granny Island Access, $Logic|105" ],
 				"chest_unopened_img": "images/items/TheoGrey.png",
 				"chest_opened_img": "images/items/Theo.png",
 				"item_count": 1
@@ -645,21 +645,21 @@
 		"sections": [
 			{
 				"name": "Conversation 1",
-				"access_rules": [ "$Logic|106" ],
+				"access_rules": [ "@Badeline Island Access, $Logic|106" ],
 				"chest_unopened_img": "images/items/BaddyGrey.png",
 				"chest_opened_img": "images/items/Baddy.png",
 				"item_count": 1
 			},
 			{
 				"name": "Conversation 2",
-				"access_rules": [ "$Logic|107" ],
+				"access_rules": [ "@Badeline Island Access, $Logic|107" ],
 				"chest_unopened_img": "images/items/BaddyGrey.png",
 				"chest_opened_img": "images/items/Baddy.png",
 				"item_count": 1
 			},
 			{
 				"name": "Conversation 3",
-				"access_rules": [ "$Logic|108" ],
+				"access_rules": [ "@Badeline Island Access, $Logic|108" ],
 				"chest_unopened_img": "images/items/BaddyGrey.png",
 				"chest_opened_img": "images/items/Baddy.png",
 				"item_count": 1
@@ -679,7 +679,7 @@
 		"visibility_rules": [ "signsanity" ],
 		"sections": [
 			{
-				"access_rules": [ "$Logic|200" ],
+				"access_rules": [ "@Granny Island Access, $Logic|200" ],
 				"chest_unopened_img": "images/items/SignGrey.png",
 				"chest_opened_img": "images/items/Sign.png",
 				"item_count": 1
@@ -699,7 +699,7 @@
 		"visibility_rules": [ "signsanity" ],
 		"sections": [
 			{
-				"access_rules": [ "$Logic|201" ],
+				"access_rules": [ "@Granny Island Access, $Logic|201" ],
 				"chest_unopened_img": "images/items/SignGrey.png",
 				"chest_opened_img": "images/items/Sign.png",
 				"item_count": 1
@@ -719,7 +719,7 @@
 		"visibility_rules": [ "signsanity" ],
 		"sections": [
 			{
-				"access_rules": [ "$Logic|202" ],
+				"access_rules": [ "@Freeway Island Access, $Logic|202" ],
 				"chest_unopened_img": "images/items/SignGrey.png",
 				"chest_opened_img": "images/items/Sign.png",
 				"item_count": 1
@@ -739,7 +739,7 @@
 		"visibility_rules": [ "signsanity" ],
 		"sections": [
 			{
-				"access_rules": [ "$Logic|203" ],
+				"access_rules": [ "@South-East House Island Access, $Logic|203" ],
 				"chest_unopened_img": "images/items/SignGrey.png",
 				"chest_opened_img": "images/items/Sign.png",
 				"item_count": 1
@@ -759,7 +759,7 @@
 		"visibility_rules": [ "signsanity" ],
 		"sections": [
 			{
-				"access_rules": [ "$Logic|204" ],
+				"access_rules": [ "@Badeline Island Access, $Logic|204" ],
 				"chest_unopened_img": "images/items/SignGrey.png",
 				"chest_opened_img": "images/items/Sign.png",
 				"item_count": 1
@@ -799,7 +799,7 @@
 		"visibility_rules": [ "carsanity" ],
 		"sections": [
 			{
-				"access_rules": [ "$Logic|301" ],
+				"access_rules": [ "@Granny Island Access, $Logic|301" ],
 				"chest_unopened_img": "images/items/CarGrey.png",
 				"chest_opened_img": "images/items/Car.png",
 				"item_count": 1
@@ -811,6 +811,288 @@
 				"x": 253,
 				"y": 611
 			}
+		]
+	},
+
+	{
+		"name": "Intro Checkpoint",
+		"visibility_rules": [ "" ],
+		"sections": [
+			{
+				"access_rules": [ "@Intro Island Access, $Logic|400" ],
+				"chest_unopened_img": "images/items/Checkpoint_Off.png",
+				"chest_opened_img": "images/items/Checkpoint_On.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 317,
+				"y": 803
+			}
+		]
+	},
+
+	{
+		"name": "Granny Checkpoint",
+		"visibility_rules": [ "" ],
+		"sections": [
+			{
+				"access_rules": [ "@Granny Island Access, $Logic|401" ],
+				"chest_unopened_img": "images/items/Checkpoint_Off.png",
+				"chest_opened_img": "images/items/Checkpoint_On.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 316,
+				"y": 634
+			}
+		]
+	},
+
+	{
+		"name": "South-East Tower Checkpoint",
+		"visibility_rules": [ "" ],
+		"sections": [
+			{
+				"access_rules": [ "@Granny Island Access, $Logic|402" ],
+				"chest_unopened_img": "images/items/Checkpoint_Off.png",
+				"chest_opened_img": "images/items/Checkpoint_On.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 382,
+				"y": 624
+			}
+		]
+	},
+
+	{
+		"name": "Climb Sign Checkpoint",
+		"visibility_rules": [ "" ],
+		"sections": [
+			{
+				"access_rules": [ "@Granny Island Access, $Logic|403" ],
+				"chest_unopened_img": "images/items/Checkpoint_Off.png",
+				"chest_opened_img": "images/items/Checkpoint_On.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 140,
+				"y": 605
+			}
+		]
+	},
+
+	{
+		"name": "Freeway Checkpoint",
+		"visibility_rules": [ "" ],
+		"sections": [
+			{
+				"access_rules": [ "@Freeway Island Access, $Logic|404" ],
+				"chest_unopened_img": "images/items/Checkpoint_Off.png",
+				"chest_opened_img": "images/items/Checkpoint_On.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 293,
+				"y": 298
+			}
+		]
+	},
+
+	{
+		"name": "Freeway Feather Checkpoint",
+		"visibility_rules": [ "" ],
+		"sections": [
+			{
+				"access_rules": [ "@Freeway Island Access, $Logic|405" ],
+				"chest_unopened_img": "images/items/Checkpoint_Off.png",
+				"chest_opened_img": "images/items/Checkpoint_On.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 425,
+				"y": 200
+			}
+		]
+	},
+
+	{
+		"name": "Feather Maze Checkpoint",
+		"visibility_rules": [ "" ],
+		"sections": [
+			{
+				"access_rules": [ "@North-East Feathers Island Access, $Logic|406" ],
+				"chest_unopened_img": "images/items/Checkpoint_Off.png",
+				"chest_opened_img": "images/items/Checkpoint_On.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 672,
+				"y": 205
+			}
+		]
+	},
+
+	{
+		"name": "Double Dash House Checkpoint",
+		"visibility_rules": [ "" ],
+		"sections": [
+			{
+				"access_rules": [ "@South-East House Island Access, $Logic|407" ],
+				"chest_unopened_img": "images/items/Checkpoint_Off.png",
+				"chest_opened_img": "images/items/Checkpoint_On.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 630,
+				"y": 484
+			}
+		]
+	},
+
+	{
+		"name": "Badeline Tower Checkpoint",
+		"visibility_rules": [ "" ],
+		"sections": [
+			{
+				"access_rules": [ "@Badeline Tower Lower Access, $Logic|408" ],
+				"chest_unopened_img": "images/items/Checkpoint_Off.png",
+				"chest_opened_img": "images/items/Checkpoint_On.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 538,
+				"y": 328
+			}
+		]
+	},
+
+	{
+		"name": "Badeline Island Checkpoint",
+		"visibility_rules": [ "" ],
+		"sections": [
+			{
+				"access_rules": [ "@Badeline Island Access, $Logic|409" ],
+				"chest_unopened_img": "images/items/Checkpoint_Off.png",
+				"chest_opened_img": "images/items/Checkpoint_On.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Forsaken City",
+				"x": 365,
+				"y": 425
+			}
+		]
+	},
+
+
+	{
+		"name": "Intro Island Access",
+		"access_rules": [
+			""
+		]
+	},
+	{
+		"name": "Granny Island Access",
+		"access_rules": [
+			"$Logic|1011",
+			"@Intro Island Access, $Logic|1001",
+			"@Freeway Island Access, $Logic|1021",
+			"@South-East House Island Access, $Logic|1051",
+			"@Badeline Tower Lower Access, $Logic|1061",
+			"@Badeline Tower Upper Access, $Logic|1071",
+			"@Badeline Island Access, $Logic|1081"
+		]
+	},
+	{
+		"name": "Freeway Island Access",
+		"access_rules": [
+			"$Logic|1022",
+			"@Granny Island Access, $Logic|1012",
+			"@North-West Girders Island Access, $Logic|1032",
+			"@North-East Feathers Island Access, $Logic|1042",
+			"@Badeline Island Access, $Logic|1082"
+		]
+	},
+	{
+		"name": "North-West Girders Island Access",
+		"access_rules": [
+			"@Granny Island Access, $Logic|1013",
+			"@Freeway Island Access, $Logic|1023"
+		]
+	},
+	{
+		"name": "North-East Feathers Island Access",
+		"access_rules": [
+			"$Logic|1044",
+			"@Freeway Island Access, $Logic|1024",
+			"@South-East House Island Access, $Logic|1054",
+			"@Badeline Tower Lower Access, $Logic|1064",
+			"@Badeline Tower Upper Access, $Logic|1074"
+		]
+	},
+	{
+		"name": "South-East House Island Access",
+		"access_rules": [
+			"$Logic|1055",
+			"@Granny Island Access, $Logic|1015",
+			"@North-East Feathers Island Access, $Logic|1045",
+			"@Badeline Tower Lower Access, $Logic|1065",
+			"@Badeline Tower Upper Access, $Logic|1075"
+		]
+	},
+	{
+		"name": "Badeline Tower Lower Access",
+		"access_rules": [
+			"@Granny Island Access, $Logic|1016",
+			"@North-East Feathers Island Access, $Logic|1046",
+			"@South-East House Island Access, $Logic|1056",
+			"@Badeline Tower Upper Access, $Logic|1076"
+		]
+	},
+	{
+		"name": "Badeline Tower Upper Access",
+		"access_rules": [
+			"$Logic|1077",
+			"@North-East Feathers Island Access, $Logic|1047",
+			"@Badeline Tower Lower Access, $Logic|1067",
+			"@Badeline Island Access, $Logic|1087"
+		]
+	},
+	{
+		"name": "Badeline Island Access",
+		"access_rules": [
+			"$Logic|1088",
+			"@Badeline Tower Upper Access, $Logic|1078"
 		]
 	}
 ]

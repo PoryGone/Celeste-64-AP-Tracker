@@ -15,7 +15,7 @@ class LocationName:
     strawberry_9  = "South-West Dash Refills Strawberry"
     strawberry_10 = "South-East Tower Side Strawberry"
     strawberry_11 = "Girders Strawberry"
-    strawberry_12 = "North-East Tower Bottom Strawberry"
+    strawberry_12 = "Badeline Tower Bottom Strawberry"
     strawberry_13 = "Breakable Blocks Strawberry"
     strawberry_14 = "Feather Maze Strawberry"
     strawberry_15 = "Feather Chain Strawberry"
@@ -23,7 +23,7 @@ class LocationName:
     strawberry_17 = "Double Dash Puzzle Strawberry"
     strawberry_18 = "Double Dash Spike Climb Strawberry"
     strawberry_19 = "Double Dash Spring Strawberry"
-    strawberry_20 = "North-East Tower Breakable Bottom Strawberry"
+    strawberry_20 = "Badeline Tower Breakable Bottom Strawberry"
     strawberry_21 = "Theo Tower Lower Cassette Strawberry"
     strawberry_22 = "Theo Tower Upper Cassette Strawberry"
     strawberry_23 = "South End of Bridge Cassette Strawberry"
@@ -32,7 +32,7 @@ class LocationName:
     strawberry_26 = "North End of Bridge Cassette Strawberry"
     strawberry_27 = "Distant Feather Cassette Strawberry"
     strawberry_28 = "Feather Arches Cassette Strawberry"
-    strawberry_29 = "North-East Tower Cassette Strawberry"
+    strawberry_29 = "Badeline Tower Cassette Strawberry"
     strawberry_30 = "Badeline Cassette Strawberry"
 
     # Friend Locations

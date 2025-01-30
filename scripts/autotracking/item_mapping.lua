@@ -14,6 +14,17 @@ ITEM_MAPPING = {
     [0xCA000B] = {"air_dash", "toggle"},
     [0xCA000C] = {"skid_jump", "toggle"},
     [0xCA000D] = {"climb", "toggle"},
+
+    [0xCA0020] = {"checkpoint_1", "toggle"},
+    [0xCA0021] = {"checkpoint_2", "toggle"},
+    [0xCA0022] = {"checkpoint_3", "toggle"},
+    [0xCA0023] = {"checkpoint_4", "toggle"},
+    [0xCA0024] = {"checkpoint_5", "toggle"},
+    [0xCA0025] = {"checkpoint_6", "toggle"},
+    [0xCA0026] = {"checkpoint_7", "toggle"},
+    [0xCA0027] = {"checkpoint_8", "toggle"},
+    [0xCA0028] = {"checkpoint_9", "toggle"},
+    [0xCA0029] = {"checkpoint_10", "toggle"},
 }
 
 SETTINGS_MAPPING = {

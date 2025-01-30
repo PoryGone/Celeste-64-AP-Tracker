@@ -88,6 +88,11 @@ function onClear(slot_data)
         carsanity.Active = (slot_data['carsanity'] ~= 0)
     end
 
+    if slot_data['checkpointsanity'] then
+        local checkpointsanity = Tracker:FindObjectForCode("checkpointsanity")
+        checkpointsanity.Active = (slot_data['checkpointsanity'] ~= 0)
+    end
+
 end
 
 function onItem(index, item_id, item_name, player_number)
